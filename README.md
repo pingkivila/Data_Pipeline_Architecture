@@ -4,7 +4,7 @@ This repository contains about building a data pipeline architecture with the re
 # Apache Kafka
 We need ZooKeeper to manage and coordinate the Kafka broker. The ZooKeeper service is mainly used to notify Kafka producers and consumers about the presence of a new broker in the Kafka system or the failure of a broker in the Kafka system. According to the notification received by Zookeeper regarding the presence or absence of a broker, producers and consumers make decisions and begin to coordinate their work with several other brokers.
 	1. Setup Apache ZooKeeper
-		 Zookeeper requires Java to run so first install Java
+	        Zookeeper requires Java to run so first install Java
 		 sudo apt update
 		 sudo apt upgrade
 		 sudo apt install openjdk-14-jdk
