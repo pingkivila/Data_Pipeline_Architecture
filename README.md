@@ -4,9 +4,7 @@
 
 
 ## 
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+![Untitled Diagram(6) fix](https://user-images.githubusercontent.com/89646884/160223544-fc5ce916-a547-4df7-9692-82d5abd02c89.jpg)
 
 ## Description
 
@@ -115,6 +113,6 @@ Python, SQL, Linux, Spark, BigQuery
 
 
 ## 🔗 Links
-[![kaggle](https://img.shields.io/badge/kaggle-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://https://www.kaggle.com/pingkivila/)
+[![kaggle](https://img.shields.io/badge/kaggle-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.kaggle.com/pingkivila/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pingki-vila-9a1a27226/)
 
