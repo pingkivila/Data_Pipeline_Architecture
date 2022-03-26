@@ -1,0 +1,19 @@
+input {
+	file {
+		path => "/home/pingkivila/python/twitter.csv
+		start_pasition => "beginning"
+	}
+}
+
+filter {
+	csv {
+		columns => ["", "created_at", "location", "user", "tweet"]
+	}
+}
+
+output {
+	elasticsearch {
+	host => ["0.0.0.0:9200"]
+	index => "twitter"
+	}
+}
